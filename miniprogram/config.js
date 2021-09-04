@@ -29,31 +29,31 @@ var data = {
       ],
       //配置学院，建议不要添加太多，不然前端不好看
       college: [{
-                  name: '喵喵',
+                  name: '书本',
                   id: -1
             },
             {
-                  name: '小狗',
+                  name: '运动',
                   id: 0
             },
             {
-                  name: '日用品',
+                  name: '化妆',
                   id: 1
             },
             {
-                  name: '装饰品',
+                  name: '电子',
                   id: 2
             },
             {
-                  name: '衣物',
+                  name: '娱乐',
                   id: 3
             },
             {
-                  name: '运动器材',
+                  name: '交通',
                   id: 4
             },
             {
-                  name: '化妆品',
+                  name: '礼品',
                   id: 5
             },
             {

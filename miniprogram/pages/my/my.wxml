@@ -68,12 +68,6 @@
 		<image src="/images/go.png"></image>
 		<button open-type="feedback"></button>
 	</view>
-	<view class="bottom_card" bindtap="go" data-go="/pages/use/use" data-status="1">
-		<view class="bottom_1">
-			<image src="/images/parse.png"></image>
-			<view>用户使用手册</view>
-		</view>
-		<image src="/images/go.png"></image>
-	</view>
+
 
 </view>

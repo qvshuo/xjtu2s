@@ -18,7 +18,6 @@
     "pages/web/web",
     "pages/message/message",
     "pages/detail/room/room",
-    "pages/use/use",
     "pages/help/help",
     "pages/appreciateCode/appreciateCode"
   ],
@@ -27,7 +26,7 @@
     "backgroundColor": "#ff7585",
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#ff7585",
-    "navigationBarTitleText": "吉珠二手交易平台",
+    "navigationBarTitleText": "仙交二手",
     "navigationBarTextStyle": "white"
   },
   "sitemapLocation": "sitemap.json",
