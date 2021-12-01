@@ -13,14 +13,3 @@
       </view>
 </view>
 <view style="height:100rpx;"></view>
-<view class="bottom">
-      <button bindtap="go" data-go="/pages/kefu/kefu">
-            <image style="width:40rpx;height:40rpx;" src="/images/kefu.png" />
-            <view class="btxt">联系客服</view>
-      </button>
-      <view class="center"></view>
-      <button bindtap="go" data-go="/pages/about/about">
-            <image style="width:40rpx;height:40rpx;" src="/images/good.png" />
-            <view class="btxt">去打赏</view>
-      </button>
-</view>

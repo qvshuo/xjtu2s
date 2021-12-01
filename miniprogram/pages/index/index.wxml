@@ -79,7 +79,5 @@
       </view>
 </van-transition>
 <!--首次进入提示收藏小程序-->
-<!--
 <tips />
-<welcome />    
--->
+<welcome />

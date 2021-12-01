@@ -118,13 +118,6 @@
         },
         {
           "id": -1,
-          "name": "关于我们",
-          "pathName": "pages/about/about",
-          "query": "",
-          "scene": null
-        },
-        {
-          "id": -1,
           "name": "钱包",
           "pathName": "pages/parse/parse",
           "query": "",
@@ -183,13 +176,6 @@
           "id": -1,
           "name": "帮助中心",
           "pathName": "pages/help/help",
-          "query": "",
-          "scene": null
-        },
-        {
-          "id": -1,
-          "name": "pages/about/about",
-          "pathName": "pages/about/about",
           "query": "",
           "scene": null
         },

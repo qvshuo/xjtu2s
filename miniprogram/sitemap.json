@@ -14,10 +14,6 @@
                   "page": "/pages/start/start"
             },
             {
-                  "action": "allow",
-                  "page": "/pages/about/about"
-            },
-            {
                   "action": "disallow",
                   "page": "*"
             }

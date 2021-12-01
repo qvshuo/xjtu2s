@@ -29,7 +29,7 @@
 
 .top_2 {
       width: 30%;
-      height: 140rpx;
+      height: 150rpx;
       display: flex;
       justify-content: center;
       align-items: center;

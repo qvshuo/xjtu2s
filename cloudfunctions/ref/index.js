@@ -5,7 +5,7 @@ const config = {
       partnerKey: '1111111111111111111111', //此处填服务商密钥
       pfx: '', //证书初始化
       fileID: 'cloud://taoshaoji-46f0r.7461-taoshaoji-46f0r-1302243411/apiclient_cert.p12', //证书云存储id
-      actionName:'吉珠二手书商城小程序提现',
+      actionName:'仙交二手小程序提现',
       rate:1 //提现收取利率，1指的是每笔收取1%
 };
 

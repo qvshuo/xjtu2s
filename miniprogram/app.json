@@ -10,7 +10,6 @@
     "pages/order/list/list",
     "pages/order/detail/detail",
     "pages/kefu/kefu",
-    "pages/about/about",
     "pages/sell/list/list",
     "pages/sell/detail/detail",
     "pages/search/search",
@@ -18,6 +17,7 @@
     "pages/web/web",
     "pages/message/message",
     "pages/detail/room/room",
+    "pages/use/use",
     "pages/help/help",
     "pages/appreciateCode/appreciateCode"
   ],
@@ -61,7 +61,6 @@
     "van-popup": "/vant/popup/index",
     "canvasdrawer": "/components/canvasdrawer/canvasdrawer",
     "tips": "components/add_tips/index",
-    "welcome": "components/welcome/welcome",
     "van-dialog": "/vant/dialog/index",
     "van-button": "/vant/button/index",
     "van-picker": "/vant/picker/index",
